@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Rotational analogue of force is called",
+      "answers": {
+        "a": "Angular momentum",
+        "b": "Torque",
+        "c": "Tension",
+        "d": "Angular acceleration"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When torque of a rotating body is zero, which among the quantity is conserved?",
+      "answers": {
+        "a": "Moment of inertia",
+        "b": "Angular acceleration",
+        "c": "Angular momentum",
+        "d": "Force"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
