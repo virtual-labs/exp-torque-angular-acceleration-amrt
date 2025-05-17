@@ -1,3 +1,7 @@
+
+### Apparatus:
+Fly wheel, weight hanger, slotted weights, stop watch, metre scale.
+
 ### Procedure for doing Simulator
 
 <ol>
