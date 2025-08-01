@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Rotational analogue of force is called",
+      "answers": {
+        "a": "Angular momentum",
+        "b": "Torque",
+        "c": "Tension",
+        "d": "Angular acceleration"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When torque of a rotating body is zero, which among the quantity is conserved?",
+      "answers": {
+        "a": "Moment of inertia",
+        "b": "Angular acceleration",
+        "c": "Angular momentum",
+        "d": "Force"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Let M,R be the mass and radius of flywheel, what happens to its moment of inertia I when the mass is doubled and radius is reduced to half",
+      "answers": {
+        "a": "No change",
+        "b": "Reduced to half",
+        "c": "Reduced to one fourth",
+        "d": "Doubled"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A flywheel starts from rest and gains an angular velocity ω =5t² rad/s.Find its angular acceleration α",
+      "answers": {
+        "a": "5 rad/s",
+        "b": "5/3t rad/s²",
+        "c": "10t rad/s²",
+        "d": "5t rad/s²"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "A wheel has an angular velocity, ω =36 rad/s and comes to rest with an angular acceleration, α 4t² rad/s².It stops in time t of",
+      "answers": {
+        "a": "3.0 s",
+        "b": "1.8 s",
+        "c": "2.4 s",
+        "d": "4.8"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
